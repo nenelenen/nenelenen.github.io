@@ -1,0 +1,49 @@
+- name: YouTube
+  url: https://www.youtube.com/user/nenele84
+  class: icon-youtube
+  title: "video video video"
+
+- name: Soundcloud
+  url: http://soundcloud.com/nenelenen/
+  class: icon-soundcloud
+  title: "music music music"
+
+- name: Twitter
+  url: https://twitter.com/nenelenen/
+  class: icon-twitter
+  title: "twit twit twit"
+
+- name: Facebook
+  url: https://www.facebook.com/nenele/
+  class: icon-facebook
+  title: "solo se ti conosco"
+
+- name: GitHub
+  url: http://github.com/nenelenen/
+  class: icon-github
+  title: "code code code"
+
+- name: Instagram
+  url: https://instagram.com/nenelenen/
+  class: icon-instagram
+  title: "foto foto foto"
+
+#- name: Academia
+#  url: https://uniroma.academia.edu/nenelenen/
+#  class: icon-academia
+#  title: "scrivi scrivi scrivi"
+
+#- name: Pinterest
+#  url: http://www.pinterest.com/phlowmedia/
+#  class: icon-pinterest
+#  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
+
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
+
+# - name: Xing
+#   url: https://www.xing.com/profile/Moritzmo_Sauer
+#   class: icon-xing
+#   title: Xing Profil

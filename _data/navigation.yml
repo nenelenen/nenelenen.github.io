@@ -1,0 +1,25 @@
+- title: home
+  url: "/"
+  side: left
+
+- title: about
+  url: "/about/"
+  side: left
+
+- title: musician
+  url: "/musician/"
+  side: left
+
+- title: organizer
+  url: "/design/"
+  side: left
+
+
+
+- title: search
+  url: "/search/"
+  side: right
+
+- title: contact
+  url: "/contact/"
+  side: right
