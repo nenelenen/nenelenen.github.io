@@ -17,7 +17,7 @@ if_you_are_not_redirected_automatically: "Se non vieni indirizzato automaticamen
 click_here: "clicca qui"
 next_post_in: "Nuovo Post in"
 previous_post_in: "Post Precedente in"
-breadcrumb_start: "Start"
+breadcrumb_start: "home"
 edit: "Edit"
 this_content_is_open_source: "Questo contenuto è open source."
 help_improve_it: "aiutami a miglioralo"

@@ -10,9 +10,22 @@
   url: "/musician/"
   side: left
 
-- title: organizer
+- title: production
   url: "/design/"
   side: left
+
+- title: media
+  url: "/media/"
+  side: left
+  dropdown:
+  - title: "audio"
+    url: "/audio/"
+  - title: "video"
+    url: "/video/"
+  - title: "images"
+    url: "/images/"
+  - title: "papers"
+    url: "/papers/"
 
 
 
