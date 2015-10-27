@@ -1,17 +1,22 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: ""
+meta_title: "Contact me"
+subheadline: ""
+teaser: ""
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
-<div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
+
+### ed@elenadalo.xyz
+<hr>
+
+<div id="subfootercont">
+<section class="social-icons">
+  <ul align="center" class="inline-list">
+  {% for social_item in site.data.socialmedia %}
+    <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+  {% endfor %}
+  </ul>
+</section>
 </div>
-
-
-
- [1]: http://www.wufoo.com/

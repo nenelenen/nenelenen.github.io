@@ -6,12 +6,15 @@
   url: "/about/"
   side: left
 
-- title: musician
-  url: "/musician/"
+- title: music
+  url: "/music/"
   side: left
+  dropdown:
+  - title: "S.T.One"
+    url: "/S.T.One/"
 
 - title: production
-  url: "/design/"
+  url: "/production/"
   side: left
 
 - title: media

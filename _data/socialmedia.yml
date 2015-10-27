@@ -1,3 +1,8 @@
+- name: email
+  url: mailto:ed@elenadalo.xyz
+  class: icon-mail
+  title: "write write write"
+
 - name: YouTube
   url: https://www.youtube.com/user/nenele84
   class: icon-youtube
@@ -27,6 +32,11 @@
   url: https://instagram.com/nenelenen/
   class: icon-instagram
   title: "foto foto foto"
+
+- name: LinkedIn
+  url: https://instagram.com/nenelenen/
+  class: icon-linkedin
+  title: "cv cv cv"
 
 #- name: Academia
 #  url: https://uniroma.academia.edu/nenelenen/

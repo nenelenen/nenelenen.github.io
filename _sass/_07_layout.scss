@@ -317,9 +317,31 @@ body.video cite { color: #fff; }
     }
     #subfooter .social-icons li a:hover {
         background: $subfooter-bg;
-        color: #fff;
+        color: $subfooter-color;
     }
 
+/* Contact
+------------------------------------------------------------------- */
+
+#subfootercont {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    align: center;
+}
+
+  #subfootercont .social-icons li a {
+            font-size: rem-calc(23);
+            display: block;
+            width: 36px;
+            border-radius: 50%;
+            color: $body-bg;
+            background: $ci-1;
+            text-align: center;
+        }
+        #subfootercont .social-icons li a:hover {
+            background: $body-bg;
+            color: $ci-1;
+        }
 
 
 /* CSS-Classes to add margin at top or bottom
