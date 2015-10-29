@@ -25,7 +25,7 @@ $body-bg: 			#969696;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #307b6c;		// verde acqua
+$ci-1: #307b6c;		// verde acqua scuro
 $ci-2: #996699;		// viola
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
@@ -96,15 +96,14 @@ $topbar-link-bg-active: $ci-6; // Active Navigation Link
 $topbar-link-bg-hover: $ci-6;
 $topbar-link-bg-active-hover: $ci-1;
 
-
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $medium; // Background Mobile Navigation
 $topbar-dropdown-link-color: $medium;
 $topbar-dropdown-link-bg: $ci-6;
 
 $topbar-menu-link-color-toggled: $ci-6;
 $topbar-menu-icon-color-toggled: $ci-6;
-$topbar-menu-link-color: $medium;
-$topbar-menu-icon-color: $medium;
+$topbar-menu-link-color: $ci-6;
+$topbar-menu-icon-color: $ci-6;
 $topbar-menu-link-color-toggled: $ci-6;
 $topbar-menu-icon-color-toggled: $ci-6;
 

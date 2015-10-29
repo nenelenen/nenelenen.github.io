@@ -199,9 +199,9 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #breadcrumb {
-    background: scale-color($grey-1, $lightness: 55%);
-    border-top: 1px solid scale-color($grey-1, $lightness: 45%);
-    border-bottom: 1px solid scale-color($grey-1, $lightness: 45%);
+    background: scale-color($body-bg, $lightness: 55%);
+    border-top: 1px solid scale-color($body-bg, $lightness: 45%);
+    border-bottom: 1px solid scale-color($body-bg, $lightness: 45%);
 }
 .breadcrumbs>.current {
   font-weight: bold;
@@ -279,7 +279,7 @@ body.video cite { color: #fff; }
     #footer h4,
     #footer h5 {
         letter-spacing: 1px;
-        color: #fff;
+        color: $body-bg;
         text-transform: uppercase;
     }
 
@@ -302,7 +302,7 @@ body.video cite { color: #fff; }
         border: 0;
         text-transform: uppercase;
         &:hover {
-            color: #fff;
+            color: $body-bg;
         }
     }
 
