@@ -5,6 +5,8 @@ meta_title: "Contact me"
 subheadline: ""
 teaser: ""
 permalink: "/contact/"
+header:
+    image_fullwidth: "/banners/calamaio.jpg"
 ---
 
 

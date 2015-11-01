@@ -11,7 +11,7 @@
   side: left
   dropdown:
   - title: "S.T.One"
-    url: "/S.T.One/"
+    url: "/music/#stone"
 
 - title: production
   url: "/production/"
@@ -29,6 +29,13 @@
     url: "/images/"
   - title: "papers"
     url: "/papers/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
 
 
 

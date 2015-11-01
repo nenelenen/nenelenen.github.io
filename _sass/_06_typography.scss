@@ -131,15 +131,16 @@ figure {
 }
 figcaption,
 .masthead-caption {
-    color: $grey-10;
+    color: $ci-2;
     font-family: $font-family-sans-serif;
     font-size: rem-calc(13);
     padding-top: rem-calc(2);
+    text-align: right;
 }
 figcaption a,
 .masthead-caption a {
     border-bottom: 1px dotted $grey-4;
-    color: $grey-10;
+    color: $ci-2;
 }
 figcaption a:hover,
 .masthead-caption a:hover {

@@ -12,13 +12,13 @@ widget1:
   title: "Prossimi Concerti"
 
   image: prossimiconcerti.JPG
-  text: '<li>TBA @<em>Teramo</em>'
+  text: '<li>TBA @<em>Teramo</em></br>'
 
 widget2:
   title: "Prossimi Eventi"
   url: ''
   image: prossimieventi.jpg
-  text: '<li>25 ottobre Alexander Gadjiev @<em>Sfaccendati</em>'
+  text: '<li>25 ottobre Alexander Gadjiev @<em>Sfaccendati</em></br>'
   video: ''
 
 widget3:
@@ -28,7 +28,7 @@ widget3:
   text: '
     <li><em>ArteScienza2015</em> performance with S.T.One
     <li><em>EMUFest2015</em> Vilanos - Luciano Azzigotti
-    <li><em>EMUFest2015</em> Ik` - Christian Banasik'
+    <li><em>EMUFest2015</em> Ik` - Christian Banasik</br>'
 permalink: /index.html
 ---
 

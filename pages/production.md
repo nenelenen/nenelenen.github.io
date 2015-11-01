@@ -5,6 +5,8 @@ subheadline: ""
 teaser: "What I am working on"
 permalink: "/production/"
 breadcrumb: true
+header:
+    image_fullwidth: "/banners/notemacchina.jpg"
 ---
 
 ### I Concerti dell'Accademia degli Sfaccendati
