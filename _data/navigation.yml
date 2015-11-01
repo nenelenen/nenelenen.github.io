@@ -10,8 +10,8 @@
   url: "/music/"
   side: left
   dropdown:
-  - title: "S.T.One"
-    url: "/music/#stone"
+  # - title: "S.T.One"
+  #   url: "/music/#stone"
 
 - title: production
   url: "/production/"
@@ -22,13 +22,13 @@
   side: left
   dropdown:
   - title: "audio"
-    url: "/audio/"
+    url: "/media/audio/"
   - title: "video"
-    url: "/video/"
+    url: "/media/video/"
   - title: "images"
-    url: "/images/"
+    url: "/media/images/"
   - title: "papers"
-    url: "/papers/"
+    url: "/media/papers/"
 
 - title: Blog
   url: "/blog/"

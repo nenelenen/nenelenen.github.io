@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+sidebar: false
 show_meta: false
 title:
 subheadline:
@@ -14,7 +15,7 @@ breadcrumb: false
 ## Concerts
 I miei concerti
 
-{% include list-posts tag='duet' %}
+{% include list-posts tag='concert' %}
 
 <small markdown="1">[Up to the top](#toc)</small>
 {: .text-right }
@@ -45,6 +46,9 @@ Festival Internazionale di Musica Elettronica
 {: ##toc }
 *  TOC
 {:toc}
+</div>
+<div class="border-dotted radius b30">
+  <img src="{{ site.url }}/images/banners/stage.jpg" alt="stage">
 </div>
 </div>
 

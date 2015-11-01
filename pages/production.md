@@ -6,6 +6,7 @@ teaser: "What I am working on"
 permalink: "/production/"
 breadcrumb: true
 header:
+    title: ''
     image_fullwidth: "/banners/notemacchina.jpg"
 ---
 
