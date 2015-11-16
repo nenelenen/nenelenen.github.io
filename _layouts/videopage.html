@@ -1,0 +1,61 @@
+---
+layout: default
+format: blog-index
+---
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
+<div class="row t60">
+	{% if page.widget1.title %}
+		{% include videopage-widget widget=page.widget1 %}
+	{% endif %}
+
+
+	{% if page.widget2.title %}
+		{% include videopage-widget widget=page.widget2 %}
+	{% endif %}
+
+
+	{% if page.widget3.title %}
+		{% include videopage-widget widget=page.widget3 %}
+	{% endif %}
+</div><!-- /.row -->
+
+<div class="row t60">
+	{% if page.widget4.title %}
+		{% include videopage-widget widget=page.widget4 %}
+	{% endif %}
+
+
+	{% if page.widget5.title %}
+		{% include videopage-widget widget=page.widget5 %}
+	{% endif %}
+
+
+	{% if page.widget6.title %}
+		{% include videopage-widget widget=page.widget6 %}
+	{% endif %}
+</div><!-- /.row -->
+
+
+
+
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->

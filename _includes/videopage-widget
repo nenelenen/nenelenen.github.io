@@ -1,0 +1,10 @@
+<div class="medium-4 columns videopage-widget">
+	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
+	<a href="{{ widget_url }}">
+		{% if include.widget.video %}{{ include.widget.video }}{% endif %}
+	</a>
+	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
+  <p>{{ include.widget.with }}</p>
+  <p><span style="font-size: 10pt;">{{ include.widget.text }}</span></p>
+	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">post ></a></p>
+</div>

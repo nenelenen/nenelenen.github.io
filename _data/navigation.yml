@@ -23,10 +23,10 @@
   dropdown:
   - title: "audio"
     url: "/media/audio/"
-  - title: "video"
-    url: "/media/video/"
   - title: "images"
     url: "/media/images/"
+  - title: "video"
+    url: "/media/video/"
   - title: "papers"
     url: "/media/papers/"
 

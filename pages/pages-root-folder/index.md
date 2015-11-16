@@ -12,7 +12,7 @@ widget1:
   title: "Prossimi Concerti"
 
   image: prossimiconcerti.JPG
-  text: '<li>TBA @<em>Teramo</em></br>'
+  text: '<li>22 gennaio @<em>Teramo</em></br>'
 
 widget2:
   title: "Prossimi Eventi"
