@@ -10,15 +10,15 @@ header:
 
 widget1:
   title: "Prossimi Concerti"
-
+  url: '/music/PercorsidOnda'
   image: prossimiconcerti.JPG
-  text: '<li>22 gennaio @<em>Teramo</em></br>'
+  text: '<li>6 dicembre <strong>Percorsi d’Onda</strong> @<em>Palazzo Sforza Cesarini</em> di Genzano di Roma <li>22 gennaio <strong>S.T.One Project</strong> @<em>Tana libera tutti</em> di Teramo</br>'
 
 widget2:
-  title: "Prossimi Eventi"
-  url: ''
-  image: prossimieventi.jpg
-  text: '<li>25 ottobre Alexander Gadjiev @<em>Sfaccendati</em></br>'
+  title: "Eventi"
+  url: 'https://www.facebook.com/events/1138871302808284/'
+  image: Nuova_Fabbrica.jpg
+  text: 'Inaugurata il 28 novembre 2015 la sede dell’associazione Nuova Fabbrica di Ariccia, fondata da Massimo Massimi.</br>Partiranno i primi corsi: <em>Informatica di Base</em> (indirizzo generico o musicale) e <em>Laboratorio di Musica Elettroacustica</em> </br>'
   video: ''
 
 widget3:
