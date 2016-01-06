@@ -12,7 +12,8 @@ widget1:
   title: "Prossimi Concerti"
   url: 'http://zero.eu/roma/luoghi/19920-defrag/'
   image: prossimiconcerti.JPG
-  text: '<li>9 gennaio <strong>with Marco Foscari</strong> @<em>Defrag</em> di Roma <li>22 gennaio <strong>S.T.One Project</strong> @<em>Tana libera tutti</em> di Teramo</br>'
+  text: '<li>9 gennaio <strong>with Marco Foscari</strong> @<em>Defrag</em> di Roma
+      <li>22 gennaio <strong>S.T.One Project</strong> @<em>Tana libera tutti</em> di Teramo</br>'
 
 widget2:
   title: "Eventi"
@@ -23,12 +24,12 @@ widget2:
 
 widget3:
   title: "Ultimi Lavori"
-  url: ''
+  url: '/music/PercorsidOnda/'
   image: ultimilavori.jpg
   text: '
     <li><em>ArteScienza2015</em> performance with S.T.One
     <li><em>EMUFest2015</em> music by L. Azzigotti, C. Banasik
-    <li><em>Sfaccendati</em> Percorsi d'onda</br>'
+    <li><em>Sfaccendati</em> electroacoustic concert Percorsi d’Onda</br>'
 permalink: /index.html
 ---
 
