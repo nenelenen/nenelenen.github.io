@@ -15,6 +15,7 @@ header:
 * collaboration with Giuseppe Silvi at the [S.T.One][1] project as flutist
 * seminary "La forma sonora degli strumenti musicali"
 * music lessons ...and math ...and physics
+* copyist: with Lilypond. (Finale and Sibelius if you really want.)
 
 
 
@@ -23,4 +24,4 @@ header:
 Elena D'Alò is a flutist and a piccolo player. She studied Flute (Diploma and Master's degree) in "Santa Cecilia" Conservatory in Roma, with teachers: Edda Silvestri, Bruno Paolo Lombardi, Deborah Kruzansky and Paolo Taballione. She also graduated in Acoustic Physics (Bachelor's degree) in "La Sapienza" University with Paolo Camiz as supervisor. Now she studies Electronic Music. She plays chamber music and in orchestral concerts too: from barocco to contemporary repertory. She also plays cello.
 
 
-[1]: http://giuseppesilvi.com/acousticstone/
+[1]: http://giuseppesilvi.com/activity/acousticstone/
