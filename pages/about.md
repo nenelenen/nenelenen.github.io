@@ -15,7 +15,7 @@ header:
 * collaboration with Giuseppe Silvi at the [S.T.One][1] project as flutist
 * seminary "La forma sonora degli strumenti musicali"
 * music lessons ...and math ...and physics
-* copyist: with Lilypond. (Finale and Sibelius if you really want.)
+* copyist: with Lilypond (Finale and Sibelius if you really want them)
 
 
 

@@ -1,15 +1,42 @@
 <aside>
-	<div class="panel radius">
-		<h3>Sidebar</h3>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+	<div class="border-dotted radius b30">
 
-			Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		</p>
+	<div class="widget">
+			<h3 class="title">Categories</h3>
+			<ul class="category_list">
+					{% assign category_list = site.categories %}
+					{% if category_list.first[0] == null %}
+							{% for category in category_list %}
+									<li><a href="{{ site.category_dir | prepend: site.baseurl | replace: '//', '/' }}/{{ category }}">{{ category }}</a></li>
+							{% endfor %}
+					{% else %}
+							{% for category in category_list %}
+									<li><a href="{{ site.category_dir | prepend: site.baseurl | replace: '//', '/' }}/{{ category[0] }}">{{ category[0] }}</a></li>
+							{% endfor %}
+					{% endif %}
+					{% assign category_list = nil %}
+			</ul>
 	</div>
 
+	<div class="widget">
+			<h3 class="title">Tags</h3>
+			<ul class="tag_list">
+					{% assign tag_list = site.tags %}
+					{% if tag_list.first[0] == null %}
+							{% for tag in tag_list %}
+									<a href="{{ site.tag_dir | prepend: site.baseurl | replace: '//', '/' }}/{{ tag }}">{{ tag }}</a> |
+							{% endfor %}
+					{% else %}
+							{% for tag in tag_list %}
+									<a href="{{ site.tag_dir | prepend: site.baseurl | replace: '//', '/' }}/{{ tag[0] }}">{{ tag[0] }}</a> |
+							{% endfor %}
+					{% endif %}
+					{% assign tag_list = nil %}
+			</ul>
+	</div>
 
-	<div class="border-dotted radius b30">
 		<img src="{{ site.url }}/images/banners/stage.jpg" alt="stage">
+
+	</div>
 	</div>
 </aside>

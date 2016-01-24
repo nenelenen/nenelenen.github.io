@@ -20,17 +20,14 @@ I miei concerti
 <small markdown="1">[Up to the top](#toc)</small>
 {: .text-right }
 
-## S.T.One
+## S.T.ONE
 Sistema di diffusione omnidirezionale ideato e costruito da Giuseppe Silvi
 
-<ul>
-    {% for post in site.categories.STOne %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+{% include list-posts tag='S.T.ONE' %}
 
 <small markdown="1">[Up to the top](#toc)</small>
 {: .text-right }
+
 
 ## EMUFest
 Festival Internazionale di Musica Elettronica

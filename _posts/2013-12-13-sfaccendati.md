@@ -13,7 +13,6 @@ tags:
     - concert
     - trio
     - romantic music
-    - flute
     - sfaccendati
 
 header:
@@ -26,17 +25,17 @@ image:
 
 13 dicembre 2013, ore 21 - Sala Maestra, Palazzo Chigi di Ariccia
 
-###### La flute enchantée - *Maurice Ravel*
+* ###### La flute enchantée - *Maurice Ravel*
 canto, flauto e arpa
 
 
 
-###### L’usignuolo op.61 - *Cesare Ciardi*
+* ###### L’usignuolo op.61 - *Cesare Ciardi*
 canto, flauto e arpa
 
 
 
-###### La Capinera - *Julius Benedict*
+* ###### La Capinera - *Julius Benedict*
 canto, flauto e arpa
 
 <p></br></p>
