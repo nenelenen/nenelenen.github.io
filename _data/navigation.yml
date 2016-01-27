@@ -36,6 +36,10 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
+  - title: "Category Index"
+    url: "/categories/"
+  - title: "Tag Index"
+    url: "/tags/"
 
 
 
