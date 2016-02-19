@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About"
+sidebar: right
 subheadline: ""
 teaser: "In my life music and physics live together. That's why I'm studying Electronic Music.
 When you know what sound is, you are inside music. And you can really do music."

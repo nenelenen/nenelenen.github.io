@@ -23,11 +23,18 @@ widget2:
   video: <a href="#" data-reveal-id="videoModal2"><img src="http://img.youtube.com/vi/VL_2xnE9Gi4/sddefault.jpg" width="300" alt=""/></a>
   with: con <em>Acoustic S.T.One</em>
   text: 5 ottobre 2015 - apertura EMUFest2015 a Roma
+  categories:
+      - flute
+  tags:
+      - S.T.ONE
+      - EMUFest
+      - Varèse
+      - contemporary music
 
 widget3:
   title: "Sonatine - <em>Sancan</em>"
   url: ''
-  video: <a href="#" data-reveal-id="videoModal1"><img src="http://img.youtube.com/vi/dc4zuPVUYOg/sddefault.jpg" width="300" alt=""/></a>
+  video: <a href="#" data-reveal-id="videoModal3"><img src="http://img.youtube.com/vi/dc4zuPVUYOg/sddefault.jpg" width="300" alt=""/></a>
   with: pianoforte <em>Alessandro Viale</em>
   text: 20 aprile 2013 - Sala Medaglioni - Conservatorio di Musica Santa Cecilia di Roma
 

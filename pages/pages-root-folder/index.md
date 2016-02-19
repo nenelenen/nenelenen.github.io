@@ -10,7 +10,7 @@ header:
 
 widget1:
   title: "Prossimi Concerti"
-  url: 'http://zero.eu/roma/luoghi/19920-defrag/'
+  url: '/music/STONED'
   image: prossimiconcerti.JPG
   text: '<li>9 gennaio <strong>with Marco Foscari</strong> @<em>Defrag</em> di Roma
       <li>22 gennaio <strong>S.T.One Project</strong> @<em>Tana libera tutti</em> di Teramo</br>'
