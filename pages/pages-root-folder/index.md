@@ -10,7 +10,7 @@ header:
 
 widget1:
   title: "Prossimi Concerti"
-  url: '{{ site.url }}/pdf/Attorno_a_Shakespeare.pdf'
+  url: '/pdf/Attorno_a_Shakespeare.pdf'
   image: prossimiconcerti.JPG
   text: '<li>17 settembre <strong>Monologhi attorno a Shakespeare</strong> @<em>Palazzo Braschi</em> di Roma
       <li>ottobre <strong>EMUFest2016</strong> @<em>Roma</em> - TBA
