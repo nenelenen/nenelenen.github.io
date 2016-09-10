@@ -10,7 +10,7 @@ breadcrumb: true
 
 widget1:
   title: "UBUNTU <em>Papa-Ripanti-Ruffo</em>"
-  url: '/music/ubuntu/'
+  url: '/music/ubuntu'
   video: <a href="#" data-reveal-id="videoModal1"><img src="http://img.youtube.com/vi/Qn2_r_L4uzA/sddefault.jpg" width="300" alt=""/></a>
   with: composizione <em>Lorenzo Ruffo</em> <br>elettronica <em>Michele Papa</em> <br>video <em>Federico Ripanti</em>
   text: per flauto, contrabbasso, live electronics e video
@@ -19,7 +19,7 @@ widget1:
 
 widget2:
   title: "conc. elettroacustico <em>Percorsi d’Onda</em>"
-  url: '/music/PercorsidOnda/'
+  url: '/music/PercorsidOnda'
   video: <a href="#" data-reveal-id="videoModal2"><img src="http://img.youtube.com/vi/XOAh-2_HdfY/sddefault.jpg" width="300" alt=""/></a>
   with: con <em>Accademia degli Sfaccendati</em>
   text: 6 dicembre 2015 - Palazzo Sforza Cesarini - Genzano di Roma
