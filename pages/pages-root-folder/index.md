@@ -10,26 +10,26 @@ header:
 
 widget1:
   title: "Prossimi Concerti"
-  url: '/music/STONED'
+  url: '{{ site.url }}/pdf/Attorno_a_Shakespeare.pdf'
   image: prossimiconcerti.JPG
-  text: '<li>9 gennaio <strong>with Marco Foscari</strong> @<em>Defrag</em> di Roma
-      <li>22 gennaio <strong>S.T.One Project</strong> @<em>Tana libera tutti</em> di Teramo</br>'
+  text: '<li>17 settembre <strong>Monologhi attorno a Shakespeare</strong> @<em>Palazzo Braschi</em> di Roma
+      <li>ottobre <strong>EMUFest2016</strong> @<em>Roma</em> - TBA
+      <li>novembre <strong>Diffrazioni</strong> @<em>Firenze</em> - TBA </br>'
 
 widget2:
-  title: "Eventi"
-  url: 'https://www.facebook.com/nuovafabbrica/?fref=ts'
-  image: Nuova_Fabbrica.jpg
-  text: 'Inaugurata il 28 novembre 2015 la sede dell’associazione Nuova Fabbrica di Ariccia, fondata da Massimo Massimi.</br>Partiranno i primi corsi: <em>Informatica di Base</em> (indirizzo generico o musicale) e <em>Laboratorio di Musica Elettroacustica</em> </br>'
+  title: "Progetti"
+  url: ''
+  image: ultimilavori.jpg
+  text: '</br> <em>Dal paesaggio sonoro alla sala da concerto</em> </br> manifestazione in cui verra presentata la mia prima installazione presso l’Accademia Filarmonica Romana </br>'
   video: ''
 
 widget3:
   title: "Ultimi Lavori"
-  url: '/music/PercorsidOnda/'
-  image: ultimilavori.jpg
+  url: '/media/video/'
+  image: prossimieventi.jpg
   text: '
-    <li><em>ArteScienza2015</em> performance with S.T.One
-    <li><em>EMUFest2015</em> music by L. Azzigotti, C. Banasik
-    <li><em>Sfaccendati</em> electroacoustic concert Percorsi d’Onda</br>'
+    <li><em>UBUNTU</em> progetto Papa-Ripanti-Ruffo
+    <li><em>La Fiera di Sinigaglia</em> MuSa a Senigallia</br>'
 permalink: /index.html
 ---
 
