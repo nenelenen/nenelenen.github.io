@@ -9,16 +9,16 @@ header:
   image_fullwidth: banners/ele_base.JPG
 
 widget1:
-  title: "Prossimi Concerti"
-  url: '/pdf/Attorno_a_Shakespeare.pdf'
+  title: "Concerti"
+  url: '/music/monologhi'
   image: prossimiconcerti.JPG
   text: '<li>17 settembre <strong>Monologhi attorno a Shakespeare</strong> @<em>Palazzo Braschi</em> di Roma
-      <li>ottobre <strong>EMUFest2016</strong> @<em>Roma</em> - TBA
-      <li>novembre <strong>Diffrazioni</strong> @<em>Firenze</em> - TBA </br>'
+      <li>27 ottobre <strong>EMUFest2016</strong> @<em>Roma</em>
+      <li>26 novembre <strong>Diffrazioni</strong> @<em>Firenze</em></br>'
 
 widget2:
   title: "Progetti"
-  url: ''
+  url: '/media/audio/'
   image: ultimilavori.jpg
   text: '</br> <em>Dal paesaggio sonoro alla sala da concerto</em> </br> manifestazione in cui verra presentata la mia prima installazione presso l’Accademia Filarmonica Romana </br>'
   video: ''
