@@ -212,15 +212,15 @@ body.video cite { color: #9d45b2; }
 ------------------------------------------------------------------- */
 
 #page-meta, #page-meta a {
-    color: $ci-2;
+    color: $text-color;
 }
 
 #page-meta .button {
-    background: $ci-2;
+    background: $text-color;
     border: 0;
 }
 #page-meta .button {
-    color: #fff;
+    color: $primary-color;
 }
 #page-meta .button:hover {
     background: $primary-color;
@@ -230,12 +230,12 @@ body.video cite { color: #9d45b2; }
   color: scale-color($grey-1, $lightness: 40%);
 }
   .meta-info a {
-    text-decoration: underline;
+    text-decoration: none;//underline;
     color: scale-color($grey-1, $lightness: 40%);
   }
   .meta-info a:hover {
     text-decoration: none;
-    color: $secondary-color;
+    color: $primary-color;
   }
 
 
