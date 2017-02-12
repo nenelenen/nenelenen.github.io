@@ -22,7 +22,7 @@ widget2:
   title: "Progetti"
   url: '/media/audio/'
   image: ultimilavori.jpg
-  text: '</br> <em>Dal paesaggio sonoro</br>alla sala da concerto</em> </br> manifestazione in cui verra presentata la mia prima installazione presso l’Accademia Filarmonica Romana <br>'
+  text: '</br> <em>Dal paesaggio sonoro</br>alla sala da concerto</em> </br> manifestazione in cui verra presentata la mia prima installazione presso l’Accademia Filarmonica Romana'
   video: ''
 
 widget3:
