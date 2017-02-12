@@ -50,15 +50,15 @@ gallery:
 </div>
 
 <div class="medium-6 columns">
-<h6><li> Dialodia (1971) - <em>Bruno Maderna</em></li></h6>
+<h5><li> Dialodia (1971) - <em>Bruno Maderna</em></li></h5>
 per due flauti
-<p></br></p>
+<p><br></p>
 
-<h6><li> Forgiveness Anthem (2010) - <em>Paula Matthusen</em></li></h6>
+<h5><li> Forgiveness Anthem (2010) - <em>Paula Matthusen</em></li></h5>
 per flauto ed elettronica - <em>prima esecuzione italiana</em>
-<p></br></p>
+<p><br></p>
 
-<h6><li> PS. SONG \#01 (2015) - <em>Pasquale Citera</em></li></h6>
+<h5><li> PS. SONG \#01 (2015) - <em>Pasquale Citera</em></li></h5>
 per ﬂauto e S.T.ONE - <em>prima esecuzione assoluta</em>
 </div>
 
@@ -70,7 +70,7 @@ per ﬂauto e S.T.ONE - <em>prima esecuzione assoluta</em>
 
 flauto *Elena D’Alò*, sistema S.T.ONE e regia del suono *Giuseppe Silvi*
 
-<p></br></p>
+<p><br></p>
 
 <p align="center">
 <a class="radius button small" href="http://www.artescienza.info/asnew/index.php?option=com_content&view=article&id=203:fgtecnopolo-parco-tecnologico-tiburtino&catid=70:eventi&Itemid=53" target="_blank">programma dell'intero evento ›</a>

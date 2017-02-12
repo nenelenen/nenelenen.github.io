@@ -34,7 +34,7 @@ show_meta: true
 
 <div class="row">
   <div class="medium-3 columns">
-  <h6><li>I’m sitting in a room - <em>Alvin Lucier</em></li></h6>
+  <h5><li>I’m sitting in a room - <em>Alvin Lucier</em></li></h5>
   voce recitante ed elettronica (con Giovanna Manci e sistema di diffusione S.T.ONE di Giuseppe Silvi)
   </div> <br>
   <div class="medium-9 columns">
@@ -45,7 +45,7 @@ show_meta: true
 
 <div class="row">
   <div class="medium-3 columns">
-  <h6><li>Vilanos - <em>Luciano Azzigotti</em></li></h6>
+  <h5><li>Vilanos - <em>Luciano Azzigotti</em></li></h5>
   per due flauti amplificati (con Alessandro Pace) <br>
   </div>
   <div class="medium-9 columns">
@@ -56,7 +56,7 @@ show_meta: true
 
 <div class="row">
   <div class="medium-3 columns">
-  <h6><li>Nothing is real (strawberry fields) - <em>Alvin Lucier</em></li></h6>
+  <h5><li>Nothing is real (strawberry fields) - <em>Alvin Lucier</em></li></h5>
   per pianoforte, teiera amplificata ed elettronica (pf e teiera Francesco Ziello)
   </div>
   <div class="medium-9 columns">
@@ -68,7 +68,7 @@ show_meta: true
 
 <div class="row">
   <div class="medium-3 columns">
-  <h6><li>Dialodia - <em>Bruno Maderna</em></li></h6>
+  <h5><li>Dialodia - <em>Bruno Maderna</em></li></h5>
   per due flauti (con Alessandro Pace)
   </div>
   <div class="medium-9 columns">
@@ -80,7 +80,7 @@ show_meta: true
 
 <div class="row">
   <div class="medium-3 columns">
-  <h6><li>Eleventh vortex - <em>Curtis Roads</em></li></h6>
+  <h5><li>Eleventh vortex - <em>Curtis Roads</em></li></h5>
   acusmatico
   </div>
   <div class="medium-9 columns">
@@ -92,7 +92,7 @@ show_meta: true
 
 <div class="row">
   <div class="medium-3 columns">
-  <h6><li>Kronos in fabula II - <em>Massimo Massimi</em></li></h6>
+  <h5><li>Kronos in fabula II - <em>Massimo Massimi</em></li></h5>
   per violino ed elettronica (violino Anna Kuntsevich)
   </div>
   <div class="medium-9 columns">

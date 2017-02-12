@@ -36,31 +36,31 @@ tags:
 
 flauto in do e in sol *Elena D’Alò*, flauto in do e basso *Alessandro Pace*, voce recitante *Gianluca Di Lauro*
 
-* ###### La Caccia - *Thomas Morley*
+* ##### La Caccia - *Thomas Morley*
 Testo da: *La dodicesima notte*
 
-* ###### Asleep, my love - *Daniel Roca*
+* ##### Asleep, my love - *Daniel Roca*
 Testo da: *Sogno di una notte di mezza estate*
 
-* ###### Macbeth Monologue - *Gyula Fekete*
+* ##### Macbeth Monologue - *Gyula Fekete*
 Testo da: *Macbeth*
 
-* ###### Jago Duetto - *Carlo Pedini*
+* ##### Jago Duetto - *Carlo Pedini*
 Testo da: *Otello*
 
-* ###### La Rondinella, Il Grillo - *Thomas Morley*
+* ##### La Rondinella, Il Grillo - *Thomas Morley*
 Testo da: *Il Mercante di Venezia*
 
-* ###### King Lear, Voices - *Barbara Rettagliati*
+* ##### King Lear, Voices - *Barbara Rettagliati*
 Testo da: *Re Lear*
 
-* ###### An Honourable Man - *Ernesto Mateo*
+* ##### An Honourable Man - *Ernesto Mateo*
 Testo da: *Giulio Cesare*
 
-* ###### Il Doloroso, Il Lamento - *Thomas Morley*
+* ##### Il Doloroso, Il Lamento - *Thomas Morley*
 Testo da: *Antonio e Cleopatra*
 
-* ###### La Girandola - *Thomas Morley*
+* ##### La Girandola - *Thomas Morley*
 Testo da: *La Tempesta*
 
 <a href="{{ site.url }}/pdf/Attorno_a_Shakespeare.pdf" target="_blank"><img src="{{ site.url }}/images/Monologhi/Shakespeare.jpg" width="120"></a>
