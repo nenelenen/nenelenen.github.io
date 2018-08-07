@@ -12,7 +12,6 @@ tags:
     - concerts
     - duet
     - contemporary music
-    - live electronics
     - monologues
     - Shakespeare
 ---

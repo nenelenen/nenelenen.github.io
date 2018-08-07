@@ -1,6 +1,6 @@
 # Site
 title: ED
-description: Flutist, electroacoustic musician
+description: flutist, electroacoustic musician
 url: https://taylantatli.github.io/Halve
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -31,10 +31,10 @@ sass:
 # Social Links
 email:             ed@elenadalo.xyz
 #google.plus:        username
-twitter:            username
+twitter:            @nenelenen
 #facebook:           username
 github:             nenelenen
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 instagram:          nenelenen
