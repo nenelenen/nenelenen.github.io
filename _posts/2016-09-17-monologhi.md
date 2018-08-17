@@ -21,7 +21,7 @@ tags:
 
 <!-- <center><b>Halve</b> is a stylish, two-column jekyll theme.</center><br> -->
 
->Cinque brillanti compositori italiani e stranieri sono stati invitati a scrivere delle musiche originali, destinate ad accompagnare la lettura di un florilegio di monologhi tratti dalle più celebri opere di William Shakespeare. Il risultato, innovativo e brillante, ha portato alla realizzazione di dieci Monologhi, in cui sono stati inseriti, come tessuto connettivo fra le nuove musiche, alcuni brani del compositore che maggiormente ha collaborato con il grande drammaturgo inglese mentre era in vita: Thomas Morley.
+<blockquote>Cinque brillanti compositori italiani e stranieri sono stati invitati a scrivere delle musiche originali, destinate ad accompagnare la lettura di un florilegio di monologhi tratti dalle più celebri opere di William Shakespeare. Il risultato, innovativo e brillante, ha portato alla realizzazione di dieci Monologhi, in cui sono stati inseriti, come tessuto connettivo fra le nuove musiche, alcuni brani del compositore che maggiormente ha collaborato con il grande drammaturgo inglese mentre era in vita: Thomas Morley.</blockquote>
 
 flauto in do e in sol *Elena D’Alò*, flauto in do e basso *Alessandro Pace*, voce recitante *Gianluca Di Lauro*
 
