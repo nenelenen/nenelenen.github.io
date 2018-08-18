@@ -32,6 +32,8 @@ tags:
 show_meta: true
 
 ---
+##### I Concerti dell'Accademia degli Sfaccendati
+
 <a href="{{ site.url }}/images/PercorsidOnda/PercorsiDonda.jpg"><img src="{{ site.url }}/images/PercorsidOnda/PercorsiDonda.jpg" alt="Percorsi d'Onda"></a>
 
 Palazzo Sforza Cesarini di Genzano di Roma <br>

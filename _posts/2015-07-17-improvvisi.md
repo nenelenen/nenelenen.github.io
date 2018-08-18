@@ -42,6 +42,7 @@ tags:
 #      caption: the two S.T.ONEs
 
 ---
+##### ArteScienza2015
 
 <figure class="half">
     <a href="{{ site.url }}/images/ArteScienza2015/17luglioCRM3.JPG"><img src="{{ site.url }}/images/ArteScienza2015/17luglioCRM3.JPG" alt="festa mezza estate"></a>
